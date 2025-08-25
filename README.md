@@ -57,13 +57,13 @@ It allows you to perform CRUD operations (Create, Read, Update, Delete) on stude
 ### 1. Add Student (POST)
 ![Add Student](images/Screenshot%202025-08-25%20193843.png)
 
-### 2. Get Students (GET)
+### 2. Update Student (PUT)
 ![Get Students](images/Screenshot%202025-08-25%20194051.png)
 
-### 3. Update Student (PUT)
+### 3. Delete Student (DELETE)
 ![Update Student](images/Screenshot%202025-08-25%20194116.png)
 
-### 4. Delete Student (DELETE)
+### 4. Get Students (GET) 
 ![Delete Student](images/Screenshot%202025-08-25%20194616.png)
 
 
