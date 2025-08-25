@@ -52,28 +52,20 @@ It allows you to perform CRUD operations (Create, Read, Update, Delete) on stude
 | DELETE | `/students/{id}` | Delete a student       |
 
 ---
+## 📸 API Testing Screenshots
 
-## 📸 API Testing with Postman
+### 1. Add Student (POST)
+![Add Student](images/Screenshot%202025-08-25%20193843.png)
 
-Here are some sample screenshots of API testing using Postman:
+### 2. Get Students (GET)
+![Get Students](images/Screenshot%202025-08-25%20194051.png)
 
-### 1. Get All Students
+### 3. Update Student (PUT)
+![Update Student](images/Screenshot%202025-08-25%20194116.png)
 
-![Get All Students](screenshots/get-students.png)
+### 4. Delete Student (DELETE)
+![Delete Student](images/Screenshot%202025-08-25%20194616.png)
 
-### 2. Add a Student
-
-![Add Student](screenshots/add-student.png)
-
-### 3. Update a Student
-
-![Update Student](screenshots/update-student.png)
-
-### 4. Delete a Student
-
-![Delete Student](screenshots/delete-student.png)
-
-👉 Place your screenshots inside a folder called **`screenshots/`** in the project root.
 
 ---
 
@@ -96,9 +88,3 @@ student-api
 
 
 
----
-
-✨ Once you paste this, create a folder `screenshots/` later and add your Postman screenshots (with the same names).  
-
-Do you also want me to give you a **shorter version of README** (just summary + endpoints, without Postman) for quick projects where you don’t have screenshots?
-```
